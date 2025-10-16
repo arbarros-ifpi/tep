@@ -1,0 +1,5 @@
+Repositório destinado a armazenar e compartilhar projetos referentes à disciplina de Tópicos Especiais em Programação
+Professor: Anderson dos Reis Barros
+Curso: Tecnologia em Análise em Desenvolvimento de Sistemas
+Disciplina: Tópicos Especiais em Programação
+Período: 2025.2
