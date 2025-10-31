@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prof. Anderson dos Reis Barros</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+  <link rel="icon" href="logo_ifpi.png" type="image/png">
+  <style>
+    :root {
+      --verde-ifpi: #00693E;
+      --vermelho-ifpi: #E30613;
+      --branco-ifpi: #FFFFFF;
+      --cinza: #f5f5f5;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      display: flex;
+      min-height: 100vh;
+      background-color: var(--cinza);
+      color: #333;
+    }
+
+    /* MENU LATERAL */
+    .sidebar {
+      width: 260px;
+      background-color: var(--verde-ifpi);
+      color: var(--branco-ifpi);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 1rem;
+      transition: width 0.3s ease;
+    }
+
+    .sidebar img {
+      width: 120px;
+      margin-bottom: 1rem;
+    }
+
+    .sidebar h2 {
+      font-size: 1rem;
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .menu {
+      width: 100%;
+    }
+
+    .menu a {
+      display: block;
+      color: var(--branco-ifpi);
+      text-decoration: none;
+      padding: 0.8rem;
+      border-radius: 0.5rem;
+      transition: background 0.3s;
+    }
+
+    .menu a:hover {
+      background-color: var(--vermelho-ifpi);
+    }
+
+    /* CONTEÚDO PRINCIPAL */
+    .content {
+      flex: 1;
+      padding: 2rem;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: var(--branco-ifpi);
+      padding: 1rem 2rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      color: var(--verde-ifpi);
+    }
+
+    .menu-toggle {
+      display: none;
+      background-color: var(--verde-ifpi);
+      border: none;
+      color: var(--branco-ifpi);
+      font-size: 1.2rem;
+      padding: 0.5rem 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    main {
+      background: var(--branco-ifpi);
+      padding: 2rem;
+      border-radius: 0.8rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    main h2 {
+      color: var(--verde-ifpi);
+      margin-bottom: 1rem;
+    }
+
+    footer {
+      margin-top: 2rem;
+      background-color: var(--verde-ifpi);
+      color: var(--branco-ifpi);
+      text-align: center;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+    }
+
+    footer a {
+      color: var(--branco-ifpi);
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+
+    footer a:hover {
+      color: var(--vermelho-ifpi);
+    }
+
+    /* RESPONSIVIDADE */
+    @media (max-width: 900px) {
+      .sidebar {
+        position: fixed;
+        left: -260px;
+        height: 100%;
+        z-index: 1000;
+      }
+
+      .sidebar.active {
+        left: 0;
+      }
+
+      .menu-toggle {
+        display: inline-block;
+      }
+
+      body {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- MENU LATERAL -->
+  <nav class="sidebar" id="sidebar">
+    <img src="logo_ifpi.png" alt="Logo IFPI">
+    <h2>Prof. Anderson dos Reis Barros</h2>
+    <div class="menu">
+      <a href="#">🏠 Início</a>
+      <a href="ensino.html">📘 Ensino</a>
+      <a href="extensao.html">🤝 Extensão</a>
+      <a href="pesquisa.html">🔬 Pesquisa</a>
+      <a href="projetos.html">💡 Projetos</a>
+    </div>
+  </nav>
+
+  <!-- CONTEÚDO -->
+  <div class="content">
+    <header>
+      <h1>Página Institucional</h1>
+      <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+    </header>
+
+    <main>
+      <h2>Bem-vindo!</h2>
+      <p>
+        Esta é a página institucional do professor <strong>Anderson dos Reis Barros</strong>, 
+        docente do <strong>Instituto Federal do Piauí – Campus Pedro II</strong>.
+      </p>
+      <p>
+        Aqui você encontrará informações sobre atividades de ensino, extensão, pesquisa e projetos em desenvolvimento.
+      </p>
+    </main>
+
+    <footer>
+      <p>© 2025 • Instituto Federal do Piauí - Campus Pedro II</p>
+      <p>
+        <a href="https://ifpi.edu.br" target="_blank">IFPI</a> •
+        <a href="https://github.com/andersonreisbarros" target="_blank">GitHub</a> •
+        <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a> •
+        <a href="https://www.instagram.com/" target="_blank">Instagram</a>
+      </p>
+    </footer>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('sidebar').classList.toggle('active');
+    }
+  </script>
+
+</body>
+</html>

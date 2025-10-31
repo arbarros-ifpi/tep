@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ensino - Prof. Anderson dos Reis Barros</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+  <link rel="icon" href="Logo-IFPI-Pedro-II-Vertical.png" type="image/png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <nav class="sidebar" id="sidebar">
+    <img src="Logo-IFPI-Pedro-II-Vertical.png" alt="Logo IFPI" />
+    <h2>Prof. Anderson dos Reis Barros</h2>
+    <div class="menu">
+      <a href="index.html">🏠 Início</a>
+      <a href="ensino.html" class="active">📘 Ensino</a>
+      <a href="extensao.html">🤝 Extensão</a>
+      <a href="pesquisa.html">🔬 Pesquisa</a>
+      <a href="projetos.html">💡 Projetos</a>
+    </div>
+  </nav>
+
+  <div class="content">
+    <header>
+      <h1>Atividades de Ensino</h1>
+      <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+    </header>
+
+    <main>
+      <h2>Disciplinas Ministradas</h2>
+      <ul>
+        <li>Tópicos Especiais em Programação – Desenvolvimento Web e Mobile</li>
+        <li>Programação Orientada a Objetos</li>
+        <li>Estrutura de Dados</li>
+      </ul>
+
+      <h2>Materiais e Recursos</h2>
+      <p>Veja abaixo os links de materiais e roadmaps:</p>
+      <ul>
+        <li><a href="Roadmaps_Interativo_Desenvolvimento_Mobile.html">📱 Roadmap Mobile</a></li>
+        <li><a href="Roadmap_Git_GitHub_Academico.html">🐙 Roadmap Git & GitHub</a></li>
+      </ul>
+    </main>
+
+    <footer>
+      <p>© 2025 • Instituto Federal do Piauí - Campus Pedro II</p>
+      <p>
+        <a href="https://ifpi.edu.br" target="_blank">IFPI</a> •
+        <a href="https://github.com/andersonreisbarros" target="_blank">GitHub</a> •
+        <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a> •
+        <a href="https://www.instagram.com/" target="_blank">Instagram</a>
+      </p>
+    </footer>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('sidebar').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
