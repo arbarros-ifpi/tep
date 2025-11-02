@@ -33,10 +33,15 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 
 🧩 **Conteúdos Principais**
 - Introdução ao versionamento com Git/Github: <a href="https://drive.google.com/file/d/1sAWc7giL4GPtp1-A9oavZ7tmqDOXtWRI/view?usp=drive_link">Aula 01</a>
-- Prototipação: <a href="https://drive.google.com/file/d/1dx7QvwAWLc6krNORZ6Q1ET02oYa_IrHu/view?usp=drive_link">Aula 02</a>
-- Introdução ao desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>   
+- Lista de Exercício 01: <a href="https://drive.google.com/file/d/1C8x2H2xKBhLiJzkQ8eK-C9ZtZvZNMgdO/view?usp=drive_link">Lista 01</a>
+- Prototipação: <a href="">Aula 02</a>
+- Lista de Exercícios 02: <a href="https://drive.google.com/file/d/1C8x2H2xKBhLiJzkQ8eK-C9ZtZvZNMgdO/view?usp=drive_link">Lista 02</a>
+- Introdução ao desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>
+- Lista de Exercícios 03: <a href="">Lista 03</a>
 - Revisão de HTML, CSS e JavaScript moderno (ES6+): <a href="https://www.w3schools.com/">Aula 03</a>
 - Introdução ao dev fullstack e stack MERN: <a href="">Aula 04</a>
+- Lista de Exercícios 04: <a href="">Lista 04</a>
+- Roadmap fullstack: <a href="https://roadmap.sh/full-stack">Roadmap</a>
 - Conceitos fundamentais do Node.js e npm:   
 - Criação de APIs REST com Express.js  
 - Banco de dados NoSQL com MongoDB e Mongoose  
