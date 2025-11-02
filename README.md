@@ -32,6 +32,7 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 ---
 
 🧩 **Conteúdos Principais**
+- Introdução ao versionamento com Git/Github <a href="https://docs.google.com/presentation/d/1TW9eiOc_dMLwHp7m8TNCEajBFYtSws2qpzEJvZOrW3w/edit?usp=sharing">Visit W3Schools.com!</a>
 - Introdução ao desenvolvimento fullstack  
 - Revisão de HTML, CSS e JavaScript moderno (ES6+)  
 - Conceitos fundamentais do Node.js e npm  
