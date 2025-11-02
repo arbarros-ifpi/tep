@@ -32,10 +32,12 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 ---
 
 🧩 **Conteúdos Principais**
-- Introdução ao versionamento com Git/Github <a href="https://docs.google.com/presentation/d/1TW9eiOc_dMLwHp7m8TNCEajBFYtSws2qpzEJvZOrW3w/edit?usp=sharing">Visit W3Schools.com!</a>
-- Introdução ao desenvolvimento fullstack  
-- Revisão de HTML, CSS e JavaScript moderno (ES6+)  
-- Conceitos fundamentais do Node.js e npm  
+- Introdução ao versionamento com Git/Github: <a href="https://drive.google.com/file/d/1sAWc7giL4GPtp1-A9oavZ7tmqDOXtWRI/view?usp=drive_link">Aula 01</a>
+- Prototipação: <a href="https://drive.google.com/file/d/1dx7QvwAWLc6krNORZ6Q1ET02oYa_IrHu/view?usp=drive_link">Aula 02</a>
+- Introdução ao desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>   
+- Revisão de HTML, CSS e JavaScript moderno (ES6+): <a href="https://www.w3schools.com/">Aula 03</a>
+- Introdução ao dev fullstack e stack MERN: <a href="">Aula 04</a>
+- Conceitos fundamentais do Node.js e npm:   
 - Criação de APIs REST com Express.js  
 - Banco de dados NoSQL com MongoDB e Mongoose  
 - Desenvolvimento de interfaces com React e Hooks  
