@@ -38,6 +38,7 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 - Fundamentos de desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>
 - Lista de Exercícios 02: <a href="https://drive.google.com/file/d/1tFgRYcyqiLOUf17tUtI16Tr5du2WBvY5/view?usp=drive_link">Lista 02</a>
 - Gabarito Lista 02: <a href="https://drive.google.com/file/d/1JWuK1g04y3tYg_xZdg6NJ0F7u3YD1hmQ/view?usp=drive_link">Gabarito Lista 02</a>
+- Board do miro: <a href="https://miro.com/welcomeonboard/Ui9PQzh0NnFYcWFrZlhFMWR0eGxtTnUrYTE3RmloTTdmWUREQTlQb2lxZjI2c3hxMWNpNkN1RHcwby9tbkNBd0tQZ0swRVFERlV1c0JTVnJickN2NFdFNklSSk9SVVdXTm9iQlczVVJaWHRnTVArNWxvN1FuNFpSN1JJM0syYVVnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=100348465774">Link</a>
 - Introdução ao dev fullstack e stack MERN: <a href="">Aula 04</a>
 - Lista de Exercícios 04: <a href="">Lista 04</a>
 - Roadmap fullstack: <a href="https://roadmap.sh/full-stack">Roadmap</a>
