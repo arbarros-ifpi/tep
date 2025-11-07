@@ -35,10 +35,9 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 - Introdução ao versionamento com Git/Github: <a href="https://drive.google.com/file/d/1sAWc7giL4GPtp1-A9oavZ7tmqDOXtWRI/view?usp=drive_link">Aula 01</a>
 - Lista de Exercício 01: <a href="https://drive.google.com/file/d/1C8x2H2xKBhLiJzkQ8eK-C9ZtZvZNMgdO/view?usp=drive_link">Lista 01</a>
 - Prototipação: <a href="">Aula 02</a>
-- Lista de Exercícios 02: <a href="https://drive.google.com/file/d/1C8x2H2xKBhLiJzkQ8eK-C9ZtZvZNMgdO/view?usp=drive_link">Lista 02</a>
-- Introdução ao desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>
-- Lista de Exercícios 03: <a href="">Lista 03</a>
-- Revisão de HTML, CSS e JavaScript moderno (ES6+): <a href="https://www.w3schools.com/">Aula 03</a>
+- Fundamentos de desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>
+- Lista de Exercícios 02: <a href="https://drive.google.com/file/d/1tFgRYcyqiLOUf17tUtI16Tr5du2WBvY5/view?usp=drive_link">Lista 02</a>
+- Gabarito Lista 02: <a href="https://drive.google.com/file/d/1JWuK1g04y3tYg_xZdg6NJ0F7u3YD1hmQ/view?usp=drive_link">Gabarito Lista 02</a>
 - Introdução ao dev fullstack e stack MERN: <a href="">Aula 04</a>
 - Lista de Exercícios 04: <a href="">Lista 04</a>
 - Roadmap fullstack: <a href="https://roadmap.sh/full-stack">Roadmap</a>
