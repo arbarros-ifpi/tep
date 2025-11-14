@@ -33,7 +33,7 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 
 🧩 **Conteúdos Principais**
 - Introdução ao versionamento com Git/Github: <a href="https://drive.google.com/file/d/1sAWc7giL4GPtp1-A9oavZ7tmqDOXtWRI/view?usp=drive_link">Aula 01</a>
-- Lista de Exercício 01: <a href="https://drive.google.com/file/d/1C8x2H2xKBhLiJzkQ8eK-C9ZtZvZNMgdO/view?usp=drive_link">Lista 01</a>
+- Lista de Exercício 01: <a href="https://drive.google.com/file/d/1Pbx85sXMBrmrbmrEGNOiVx_twH8xDumg/view?usp=sharing">Lista 01</a>
 - Prototipação: <a href="">Aula 02</a>
 - Fundamentos de desenvolvimento web: <a href="https://drive.google.com/file/d/1OkWzsxI52m3J2VbQJcaCo_z8lHF7wkRk/view?usp=drive_link">Aula 03</a>
 - Lista de Exercícios 02: <a href="https://drive.google.com/file/d/1tFgRYcyqiLOUf17tUtI16Tr5du2WBvY5/view?usp=drive_link">Lista 02</a>
