@@ -39,9 +39,13 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 - Lista de Exercícios 02: <a href="https://drive.google.com/file/d/1tFgRYcyqiLOUf17tUtI16Tr5du2WBvY5/view?usp=drive_link">Lista 02</a>
 - Gabarito Lista 02: <a href="https://drive.google.com/file/d/1JWuK1g04y3tYg_xZdg6NJ0F7u3YD1hmQ/view?usp=drive_link">Gabarito Lista 02</a>
 - Board do miro: <a href="https://miro.com/welcomeonboard/Ui9PQzh0NnFYcWFrZlhFMWR0eGxtTnUrYTE3RmloTTdmWUREQTlQb2lxZjI2c3hxMWNpNkN1RHcwby9tbkNBd0tQZ0swRVFERlV1c0JTVnJickN2NFdFNklSSk9SVVdXTm9iQlczVVJaWHRnTVArNWxvN1FuNFpSN1JJM0syYVVnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=100348465774">Link</a>
-- Introdução ao dev fullstack e stack MERN: <a href="">Aula 04</a>
+- Introdução ao dev fullstack e stack MERN: <a href="https://drive.google.com/file/d/1wODpTqYiPSAaHCCDWfR1cpNESiHJ43M_/view?usp=sharing">Aula 04</a>
 - Lista de Exercícios 04: <a href="">Lista 04</a>
 - Roadmap fullstack: <a href="https://roadmap.sh/full-stack">Roadmap</a>
+- Prática - Construção de aplicação Web fullstack
+-   Aula 01: Configuração inicial do ambiente de desenvolvimento: <a href ="https://drive.google.com/file/d/1euwBmapP9REBwEdf33ScYFBLRuSiHpyD/view?usp=sharing">Aula 01</a>
+-   Aula 02: Desenvolvimento server e banco de dados: <a href ="https://drive.google.com/file/d/12W9xX_e8TRnX0mVOLBiOj86nHyDZtVdr/view?usp=sharing">Aula 02</a>
+
 - Conceitos fundamentais do Node.js e npm:   
 - Criação de APIs REST com Express.js  
 - Banco de dados NoSQL com MongoDB e Mongoose  
