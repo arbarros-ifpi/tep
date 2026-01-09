@@ -43,9 +43,14 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 - Lista de Exercícios 04: <a href="">Lista 04</a>
 - Roadmap fullstack: <a href="https://roadmap.sh/full-stack">Roadmap</a>
 - Prática - Construção de aplicação Web fullstack
--   Aula 01: Configuração inicial do ambiente de desenvolvimento: <a href ="https://drive.google.com/file/d/1euwBmapP9REBwEdf33ScYFBLRuSiHpyD/view?usp=sharing">Aula 01</a>
--   Aula 02: Desenvolvimento server e banco de dados: <a href ="https://drive.google.com/file/d/12W9xX_e8TRnX0mVOLBiOj86nHyDZtVdr/view?usp=sharing">Aula 02</a>
-
+- Aula 01: Configuração inicial do ambiente de desenvolvimento: <a href ="https://drive.google.com/file/d/1euwBmapP9REBwEdf33ScYFBLRuSiHpyD/view?usp=sharing">Aula 01</a>
+- Aula 02: Desenvolvimento server e banco de dados: <a href ="https://drive.google.com/file/d/12W9xX_e8TRnX0mVOLBiOj86nHyDZtVdr/view?usp=sharing">Aula 02</a>
+- Aula 03: Cadastro de Livros com POST: <a href="https://drive.google.com/file/d/1LWXKI7EV1_Iz8l9G8MmN4ZcOxU_gKEVZ/view?usp=drive_link">Aula 03</a>
+- Aula 04: Listagem de Livros com GET: <a href = "https://drive.google.com/file/d/1krzURJazR_9D1-7j2PUJ-4l4lf-o_n82/view?usp=drive_link">Aula 04</a>
+- Aula 05: Atualização de Informações de Livros com PUT: <a href = "https://drive.google.com/file/d/17MojjHNEvMETBNK_X53DByEFjgqd1psj/view?usp=drive_link">Aula 05</a>
+- Aula 06: Exclusão de Livros com DELETE: <a href = "https://drive.google.com/file/d/1tQDQEK086tGEMd_JXO_Pxyt4nSfY3JPo/view?usp=drive_link">Aula 06</a>
+- Livros para cadastro (formato JSON): <a href = "https://drive.google.com/file/d/1n3VInT87XrJpIJYS3vjMGYHUuY9RiNb_/view?usp=sharing">Livros JSON</a>
+- 
 - Conceitos fundamentais do Node.js e npm:   
 - Criação de APIs REST com Express.js  
 - Banco de dados NoSQL com MongoDB e Mongoose  
