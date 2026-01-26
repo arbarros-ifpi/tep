@@ -54,6 +54,8 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 - Capítulo recomendado para 2ª avaliação: <a href="https://drive.google.com/file/d/1z4a7sNzILiJdIZIqJTkYc7YKq8t5B0Zy/view?usp=sharing">Link</a>
 - Lista de exercícios 1 para 2ª avaliação: <a href="https://drive.google.com/file/d/1nfZIkK3jeM2FbOBepnSW2Ra75Iz-V_sT/view?usp=sharing">Link</a> 
 - Lista de exercícios 2 para 2ª avaliação: <a href="https://drive.google.com/file/d/1fo1Q7D9LtS4xG48V-nHP1aaoBuDifxN-/view?usp=sharing">Link</a>
+- Trabalho prático em grupo valendo 3ª avaliação: <a href="https://drive.google.com/file/d/1hCMTkl97-MhSpHbHo4LqAgFiouOpDLdw/view?usp=sharing">Link</a>
+
 - Conceitos fundamentais do Node.js e npm:   
 - Criação de APIs REST com Express.js  
 - Banco de dados NoSQL com MongoDB e Mongoose  
