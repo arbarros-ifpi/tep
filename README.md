@@ -50,7 +50,10 @@ O objetivo é capacitar o aluno a construir aplicações web completas, com inte
 - Aula 05: Atualização de Informações de Livros com PUT: <a href = "https://drive.google.com/file/d/17MojjHNEvMETBNK_X53DByEFjgqd1psj/view?usp=drive_link">Aula 05</a>
 - Aula 06: Exclusão de Livros com DELETE: <a href = "https://drive.google.com/file/d/1tQDQEK086tGEMd_JXO_Pxyt4nSfY3JPo/view?usp=drive_link">Aula 06</a>
 - Livros para cadastro (formato JSON): <a href = "https://drive.google.com/file/d/1n3VInT87XrJpIJYS3vjMGYHUuY9RiNb_/view?usp=sharing">Livros JSON</a>
-- 
+- Slides para 2ª avaliação: <a href="https://drive.google.com/file/d/13Nj23hRIkrorf1Szu2qjcEUVmVm6dsLm/view?usp=sharing">Link</a>
+- Capítulo recomendado para 2ª avaliação: <a href="https://drive.google.com/file/d/1z4a7sNzILiJdIZIqJTkYc7YKq8t5B0Zy/view?usp=sharing">Link</a>
+- Lista de exercícios 1 para 2ª avaliação: <a href="https://drive.google.com/file/d/1nfZIkK3jeM2FbOBepnSW2Ra75Iz-V_sT/view?usp=sharing">Link</a> 
+- Lista de exercícios 2 para 2ª avaliação: <a href="https://drive.google.com/file/d/1fo1Q7D9LtS4xG48V-nHP1aaoBuDifxN-/view?usp=sharing">Link</a>
 - Conceitos fundamentais do Node.js e npm:   
 - Criação de APIs REST com Express.js  
 - Banco de dados NoSQL com MongoDB e Mongoose  
